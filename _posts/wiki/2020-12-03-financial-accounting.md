@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+permalink: /wiki/
 title: Financial Accounting 
 date: 2020-12-03
 ---

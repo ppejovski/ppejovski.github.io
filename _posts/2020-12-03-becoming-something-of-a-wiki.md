@@ -14,4 +14,4 @@ While continuing that into a career wasn't something I really though about, I al
 
 I'm hoping that I can help guide someone that is pursuing a similar degree, or maybe serve as a well-written resource for people that are curious.
 
-I'll be starting off with (Financial Accounting)[https://ppejovski.github.io/blog/financial-accounting] for the first subject, which seems fitting.
+I'll be starting off with [Financial Accounting](https://ppejovski.github.io/blog/financial-accounting) for the first subject, which seems fitting.
