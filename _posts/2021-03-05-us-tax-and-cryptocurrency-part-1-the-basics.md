@@ -13,7 +13,7 @@ categories: test
 </style>
 
 
-<img src="img/01-thumbnail.jpeg" class="post-thumbnail">
+<img src="../img/01-thumbnail.jpeg" class="post-thumbnail">
 
 This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal, investment, or accounting advice. You should consult your own tax, legal, investment, or accounting advisors before engaging in any transaction.
 
