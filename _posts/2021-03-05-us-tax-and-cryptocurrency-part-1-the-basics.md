@@ -1,12 +1,19 @@
 ---
 layout: post
-title: "testing"
+title: "US Tax Law and Cryptocurrency Part 1: The Basics"
 date: 2021-03-05 14:03:30 -0000
 categories: test
-#needs-updating
 ---
 
-![](https://phil.mk/wp-img/01-thumbnail.jpg)
+<style type="text/css">
+.post-thumbnail {
+    width: 500px; 
+    height: auto;
+}
+</style>
+
+
+<img src="https://phil.mk/wp-img/01-thumbnail.jpg" class="post-thumbnail">
 
 This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal, investment, or accounting advice. You should consult your own tax, legal, investment, or accounting advisors before engaging in any transaction.
 
