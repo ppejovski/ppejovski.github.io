@@ -7,7 +7,7 @@ categories: test
 
 <style type="text/css">
 .post-thumbnail {
-    width: 500px; 
+    width: 50%; 
     height: auto;
 }
 </style>
